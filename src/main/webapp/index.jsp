@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>메이븐프로젝트</h1>
+<h1>메이븐프로젝트 수정본</h1>
 </body>
 </html>
